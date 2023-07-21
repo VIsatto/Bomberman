@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679687336 source:c:\users\notebook\documents\facul\algoprog\bomberman1\main.c
+	<stdio.h>
+	<raylib.h>
+	<stdlib.h>
+	<time.h>
+
+1679356871 source:c:\users\notebook\documents\facul\algoprog\bomberman1\main2.c
+	<stdio.h>
+	<raylib.h>
+	<stdlib.h>
+	<time.h>
+
